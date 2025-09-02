@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  Title: "Hiker\u2019s Rice Bowl"
+  Icon: {fileID: 21300000, guid: b864a549ead1247daaea29604eb0c7d0, type: 3}
+  Instructions: 'Boil water, add rice.
+
+    Stir in beans, corn, and spices.
+
+    Cook
+    until rice absorbs liquid.
+
+    Top with salsa or hot sauce.'
+  Ingredients:
+  - 1 cup instant rice
+  - 2 cups water
+  - 1/2 cup canned beans or lentils
+  - 1/4 cup corn (canned or fresh)
+  - 1/2 tsp cumin
+  - Salsa or hot sauce (optional)

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  Title: Skillet Chicken & Rice
+  Icon: {fileID: 21300000, guid: c3832d983a7af45fbbf3112966d461c7, type: 3}
+  Instructions: 'Cook rice in boiling water.
+
+    Add chicken and peas, stir well.
+
+    Season
+    with soy sauce and heat everything together.'
+  Ingredients:
+  - 1 cup instant rice
+  - 1 cup water
+  - 1/2 cup diced chicken (fresh or canned)
+  - 1/4 cup peas
+  - 1 tbsp soy sauce

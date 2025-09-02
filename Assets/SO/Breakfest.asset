@@ -13,4 +13,10 @@ MonoBehaviour:
   m_Name: Breakfest
   m_EditorClassIdentifier: 
   Category: 0
-  Recipes: []
+  Recipes:
+  - {fileID: 11400000, guid: 49012217e593c4cbcb8d8a6623c0a57a, type: 2}
+  - {fileID: 11400000, guid: 9a12ac5c3be9b4f4aac6fdbf0a595415, type: 2}
+  - {fileID: 11400000, guid: 8ad05c471eb0b4c19ad11592e4baaed0, type: 2}
+  - {fileID: 11400000, guid: 16280fc78c253468cbb54025bf8b25e8, type: 2}
+  - {fileID: 11400000, guid: e0c59a9fefc9844efa1001ab2618dd1a, type: 2}
+  Description: Campfire Breakfast

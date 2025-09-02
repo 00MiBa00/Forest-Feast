@@ -2,6 +2,8 @@ namespace Types
 {
     public enum SceneType
     {
-        MenuScene
+        MenuScene,
+        ChooseDishScene,
+        IngredientsScene
     }
 }

@@ -9,6 +9,6 @@ namespace SO
     {
         public RecipeType Category;
         public List<RecipeSO> Recipes = new();
-
+        public string Description;
     }
 }

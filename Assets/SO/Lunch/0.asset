@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  Title: One-Pot Camp Chili
+  Icon: {fileID: 21300000, guid: c5bdc7eee731e405e8b6ee7b32750768, type: 3}
+  Instructions: "Cook onion and pepper until soft.\nAdd beans and tomatoes.\nSeason
+    with chili powder, salt, and pepper.\nSimmer 10\u201315 minutes. Serve hot."
+  Ingredients:
+  - 1 can beans (kidney, black, or mixed)
+  - 1 can diced tomatoes
+  - 1/2 cup diced onion
+  - 1/2 cup diced bell pepper
+  - 1/2 tsp chili powder
+  - Salt, pepper

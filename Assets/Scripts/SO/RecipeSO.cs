@@ -7,7 +7,7 @@ namespace SO
     public class RecipeSO : ScriptableObject
     {
         public string Title;
-        public Sprite _icon;
+        public Sprite Icon;
         [TextArea] public string Instructions;
         public List<string> Ingredients = new();
     }
