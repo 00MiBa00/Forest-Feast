@@ -68,8 +68,6 @@ namespace Controllers.Scenes
         private RecipeCollectionSO GetCurrentCollection()
         {
             RecipeType type = _model.GetSelectedRecipe;
-            
-            Debug.Log($"{type}");
 
             return _recipeCollectionSos.Find(x => x.Category == type);
         }
