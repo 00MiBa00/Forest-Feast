@@ -1860,7 +1860,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forcedScreenOrientation: 1
-  endpoint: "\_https://forestfeaast.com"
+  endpoint: https://forestfeaast.com
   appsflyerDevID: cony2WD84nrzaD9G5aopKc
   IOS_ID: 6752020246
   _sleepObjects:
