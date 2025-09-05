@@ -1860,9 +1860,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forcedScreenOrientation: 1
-  endpoint: https://chickeneggcooktimer.com
-  appsflyerDevID: Qaf5LR7YmLd8M78LMitfwT
-  IOS_ID: 6747754113
+  endpoint: "\_https://forestfeaast.com"
+  appsflyerDevID: cony2WD84nrzaD9G5aopKc
+  IOS_ID: 6752020246
   _sleepObjects:
   - {fileID: 1581472503}
   loadingScreen: {fileID: 2620323195764824328}
